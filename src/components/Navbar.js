@@ -32,7 +32,6 @@ function Navbar() {
         <NavLink to="/education" activeClassName="active">
           Education
         </NavLink>
-        <a href="http://localhost:3000/" target="_blank">My project</a>
       </div>
     </nav>
   );
